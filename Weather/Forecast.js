@@ -4,7 +4,7 @@ import ForecastContainer from "./ForecastContainer"
 
 // Create a variable to store the api key and url information
 const apiKey = {
-    key: "&appid=285f82bda2b3b55bd6fbcf3d997ce502",
+    key: "&appid={ENTER YOUR API KEY}",
     url: "https://api.openweathermap.org/data/2.5/forecast?q="
 }
 
